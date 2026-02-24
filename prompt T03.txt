@@ -1,0 +1,7 @@
+buatlah sebuah program bahasa C dimana pada program tersebut yang dapat mendukung operasional sehari-hari di Laundry ITDel.
+coba jelaskan program yang bagaimana yang anda buat untuk program kali ini
+jadi sistem yang bagaimana yang anda berikan untuk mendukung operasional sehari=hari di ITDel?
+adakah sistem yang lain? misalnya nomor antrean dalam laundry
+masih adakah referensi sistem lain?
+menurutku ini sama dengan sistem kasir, coba dengan sistem lain
+masih adakah saran sistem lain?

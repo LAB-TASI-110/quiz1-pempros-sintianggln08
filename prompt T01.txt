@@ -1,0 +1,2 @@
+berikan program bahasa C dimana program tersebut menghitung berapa yang harus dibayar dan juga perhitungan diskon pada kupon
+berikan penjelasan yang mudah dimengerti

@@ -1,0 +1,3 @@
+buatlah sebuah program bahasa C dimana pada program tersebut nantinya akan menghitung jumlah total data (N), Deret nilai (n1, n2, …, n)., Kode kelompok siswa (pola geometrinya) . bisa menggunakan array
+pada variabel total kenapa harus memberikan nilai awal 0 (total=0) agar hasil penjumlahannya akurat?
+kenapa aku harus membayangkan total adalah sebuah gelas ukur yang akan digunakan untuk menakar air (nilai siswa)?
